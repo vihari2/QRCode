@@ -1,7 +1,7 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "../../logo.svg";
+import "./qrcode.css";
 
-function App() {
+function Qrcode() {
   return (
     <div className="App">
       <header className="App-header">
@@ -22,4 +22,4 @@ function App() {
   );
 }
 
-export default App;
+export default Qrcode;
